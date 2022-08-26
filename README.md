@@ -13,6 +13,9 @@ Thanks for using the game. We are not responsible of any damage cause by our sof
     4. Click on copy files (do not link them)
     5. Enjoy your free game
 
+## Final mark
+Mark : 20/20 (100%)
+
  
 
 
